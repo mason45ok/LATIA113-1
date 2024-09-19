@@ -2,7 +2,6 @@
 ## 學習分析工具
 * 科技115李騰騏
 * W3作業內容
-:::spoiler Code
 ```python
 def nth_power(times , num):
     try: 
