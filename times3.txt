@@ -1,0 +1,5 @@
+mission_difficulty
+中    1030200
+易     487585
+難     302401
+dtype: int64
